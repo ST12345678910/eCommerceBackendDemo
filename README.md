@@ -13,8 +13,7 @@
 ## Installation
 In order to install, clone all then run <code>npm i</code> to download all neccesary dependencies
 ## Usage
- In order to begin, run <code>npm run seed</code> to seed the database with sample data. Then run <code>nodemon</code> or <code>node server.js</code> to start the server. In the example video, the routes are tested in Insomnia, which is very similar to Postman. 
-
+ In order to begin, run <code>npm run seed</code> to seed the database with sample data. Then run <code>nodemon</code> or <code>node server.js</code> to start the server. In the example video, the routes are tested in Insomnia, which is very similar to Postman. Walkthrough: https://watch.screencastify.com/v/jDTS55ZPX7YKKwYiQAQI
 ## Contributing
  This project is complete, and not currently accepting contributions.
 ## Tests
